@@ -21,7 +21,7 @@ This project analyzes customer churn patterns in a telecom company using Power B
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard3.jpeg)
 
 ## Key Insights
 
